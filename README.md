@@ -9,7 +9,7 @@ About GPT college
     
 
 
-    ![image](https://github.com/user-attachments/assets/e7c78265-0b94-436b-95d6-2ad14d037fd6)
+![image](https://github.com/user-attachments/assets/e7c78265-0b94-436b-95d6-2ad14d037fd6)
 
 
 </body>
